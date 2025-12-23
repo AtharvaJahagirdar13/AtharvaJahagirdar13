@@ -23,39 +23,38 @@
 
 ---
 
-I'm interested in **Machine Learning**, **Data Science**, **Statistics**, and how data-driven models help solve real-world problems.
+🧩 **Interests:** Machine Learning • Data Science • Statistics • Problem Solving  
 
-I focus on building a strong foundation in **modeling, data analysis, and statistical reasoning**, while continuously working on projects to improve practical understanding.
+I like breaking problems down, understanding **why things work**, and then building them back better with data.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Insights;Learning+ML+One+Model+at+a+Time;Debugging+with+Coffee&center=true&width=550&height=40">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Insights;Learning+ML+One+Model+at+a+Time;Debugging+with+Coffee+☕&center=true&width=550&height=40">
 </p>
 
 ---
 
-<h2> 👨‍🎓 About Me </h2>
+<h2> 👨‍🎓 About Me <img src="https://em-content.zobj.net/thumbs/120/apple/354/student_1f9d1.png" width="22"/> </h2>
 
-- 🎓 Engineering student with a strong inclination towards **Data Science & AI**
-- 📊 Comfortable with **Python-based data analysis & ML workflows**
-- 🧠 Focused on understanding **why models work, not just using them**
-- 🔭 Actively building academic and personal ML projects
+- 🎓 Engineering student focused on **Data Science & AI**
+- 📊 Python-based data analysis & ML workflows
+- 🧠 Curious about model logic, assumptions, and limitations
+- 🔭 Building academic + personal ML projects
 
-**Current focus areas:**
+**Currently learning 📚**
 - Machine Learning fundamentals  
-- Statistical analysis for data science  
-- Time series & forecasting basics  
-- End-to-end ML project development  
+- Statistical analysis for DS  
+- Time series & forecasting  
+- End-to-end ML pipelines  
 
 ---
 
 <h3> 🤖 Machine Learning Models I’ve Worked With </h3>
 
-- Linear Regression  
-- Logistic Regression  
-- Decision Trees  
-- Random Forest  
-- K-Nearest Neighbors (KNN)  
-- Naive Bayes  
+📌 *Hands-on through coursework & projects*
+
+- Linear & Logistic Regression  
+- Decision Trees & Random Forest  
+- KNN & Naive Bayes  
 - Support Vector Machines (SVM)  
 - K-Means Clustering  
 
@@ -63,25 +62,28 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 
 <h3> 📊 Statistics & Data Science Concepts </h3>
 
+🧠 *The backbone stuff — not skipping this*
+
 - Descriptive Statistics  
-- Probability Distributions (Normal, Binomial)  
-- Hypothesis Testing (Z-test, T-test, Chi-square)  
+- Probability Distributions  
+- Hypothesis Testing  
 - Confidence Intervals  
 - Correlation & Covariance  
 - Bias–Variance Tradeoff  
 - Overfitting vs Underfitting  
-- Feature Scaling & Encoding  
 
 ---
 
 <h3> ⚙️ Tools & Practices I’m Familiar With </h3>
 
-- Exploratory Data Analysis (EDA)  
-- Data preprocessing & cleaning  
+🛠️ *What I actually use while working*
+
+- EDA & data cleaning  
+- Feature engineering  
 - Model evaluation (Accuracy, Precision, Recall, RMSE)  
 - Train-test split & cross-validation  
 - Basic time-series analysis  
-- Agile project workflows (Jira – academic/project use)  
+- Agile workflows (Jira)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -108,41 +110,42 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications 📜
 
-📁 All certifications will be organized and uploaded here:  
-
-
-*(Includes ML, Data Science, Analytics, and related coursework)*
+🗂️ I’ll be organizing all certificates here (updating soon):  
+👉 **[Certifications Repository – Coming Soon 🚧](https://github.com/YOUR_USERNAME/certifications)**
 
 ---
 
 ## 🧠 Core Competencies
 
-- Fast learner with strong self-learning ability  
-- Adaptable to new tools, technologies, and problem domains  
-- Analytical thinker with attention to detail  
-- Strong problem-solving mindset  
-- Comfortable working independently or in a team  
-- Consistent, disciplined, and improvement-driven  
+✨ *Soft skills that actually matter*
+
+- Fast learner & self-starter  
+- Adapts quickly to new tools & domains  
+- Strong analytical thinking  
+- Problem-solver, not shortcut-seeker  
+- Consistent and disciplined  
 
 ---
 
 ## 🌍 Hobbies & Interests
 
-- ✈️ Traveling and exploring new places  
-- 🌏 Observing cultures, patterns, and real-world systems  
-- 📖 Learning beyond coursework  
-- ☕ Long debugging sessions powered by curiosity (and coffee)
+- ✈️ Traveling & exploring new places  
+- 🌏 Observing real-world patterns  
+- 📖 Learning beyond the syllabus  
+- ☕ Coffee + curiosity + code  
 
 ---
 
-## 📈 GitHub Summary
-
-
+## 📈 GitHub Summary 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaJahagirdar13&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
