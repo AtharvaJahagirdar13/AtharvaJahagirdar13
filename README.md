@@ -16,13 +16,19 @@
   <a href="https://github.com/AtharvaJahagirdar13">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
   <a href="mailto:jahagirdaratharva0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/resume">
+  <a href="https://github.com/AtharvaJahagirdar13/resume">
     <img src="https://img.shields.io/badge/Resume-1F75FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -117,7 +123,7 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 ## 🎓 Certifications
 
 📁 All certifications will be organized and uploaded here:  
-👉 **[Certifications Repository – Coming Soon](https://github.com/YOUR_USERNAME/certifications)**
+👉 **[Certifications Repository – Coming Soon](https://github.com/AtharvaJahagirdar13/certifications)**
 
 ---
 
@@ -135,8 +141,6 @@ I believe strong fundamentals plus consistent practice compound over time.
 ---
 
 ## ⚠️ Key Challenges in Data Science & Machine Learning
-
-Some challenges I actively try to understand and work through:
 
 - Data quality issues and hidden biases  
 - Overfitting vs real-world generalization  
@@ -176,8 +180,6 @@ I value **clarity over complexity**, **fundamentals over shortcuts**, and **prog
 ---
 
 ## 📈 GitHub Summary
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaJahagirdar13&layout=compact&theme=tokyonight"/>
