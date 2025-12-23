@@ -108,6 +108,35 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 
 ---
 
+## 🎓 Certifications
+
+📁 All certifications will be organized and uploaded here:  
+👉 **[Certifications Repository – Coming Soon](https://github.com/YOUR_USERNAME/certifications)**
+
+*(Includes ML, Data Science, Analytics, and related coursework)*
+
+---
+
+## 🧠 Core Competencies
+
+- Fast learner with strong self-learning ability  
+- Adaptable to new tools, technologies, and problem domains  
+- Analytical thinker with attention to detail  
+- Strong problem-solving mindset  
+- Comfortable working independently or in a team  
+- Consistent, disciplined, and improvement-driven  
+
+---
+
+## 🌍 Hobbies & Interests
+
+- ✈️ Traveling and exploring new places  
+- 🌏 Observing cultures, patterns, and real-world systems  
+- 📖 Learning beyond coursework  
+- ☕ Long debugging sessions powered by curiosity (and coffee)
+
+---
+
 ## 📈 GitHub Summary
 
 <p align="center">
