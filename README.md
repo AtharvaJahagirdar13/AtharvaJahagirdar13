@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/atharva-jahagirdar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE">
+  <a href="https://www.kaggle.com/atharvajahagirdar7">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/AtharvaJahagirdar13">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:jahagirdaratharva0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -177,12 +177,10 @@ I value **clarity over complexity**, **fundamentals over shortcuts**, and **prog
 
 ## 📈 GitHub Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaJahagirdar13&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
