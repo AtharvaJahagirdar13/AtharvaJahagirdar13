@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="70"/>
   Hi there, I'm Atharva Jahagirdar 👋
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Learning+Every+Day&center=true&width=650&height=45">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
@@ -20,30 +23,32 @@
 
 ---
 
-I'm passionate about **Machine Learning**, **Data Science**, **Statistics**, and **AI-driven problem solving**.
+I'm interested in **Machine Learning**, **Data Science**, **Statistics**, and how data-driven models help solve real-world problems.
 
-I enjoy understanding how data, algorithms, and mathematical reasoning come together to solve real-world problems, and I’m actively building projects to strengthen both my theoretical and practical foundations.
+I focus on building a strong foundation in **modeling, data analysis, and statistical reasoning**, while continuously working on projects to improve practical understanding.
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Insights;Learning+ML+One+Model+at+a+Time;Debugging+with+Coffee&center=true&width=550&height=40">
+</p>
 
 ---
 
-<h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
+<h2> 👨‍🎓 About Me </h2>
 
-- 🎓 Engineering student with strong interest in **Data Science & AI**
+- 🎓 Engineering student with a strong inclination towards **Data Science & AI**
 - 📊 Comfortable with **Python-based data analysis & ML workflows**
-- 🧠 Focused on learning **model reasoning, statistics, and evaluation**
-- 🔭 Actively building academic + personal ML projects
+- 🧠 Focused on understanding **why models work, not just using them**
+- 🔭 Actively building academic and personal ML projects
 
-🔭 Areas I’m currently working on:
-- Machine Learning fundamentals
-- Statistical analysis for data science
-- Time series & forecasting basics
-- AI/ML project development
+**Current focus areas:**
+- Machine Learning fundamentals  
+- Statistical analysis for data science  
+- Time series & forecasting basics  
+- End-to-end ML project development  
 
 ---
 
-<h3> 🔭 Machine Learning Models I’ve Used </h3>
+<h3> 🤖 Machine Learning Models I’ve Worked With </h3>
 
 - Linear Regression  
 - Logistic Regression  
@@ -56,11 +61,11 @@ I enjoy understanding how data, algorithms, and mathematical reasoning come toge
 
 ---
 
-<h3> 🔭 Statistics & Data Science Concepts </h3>
+<h3> 📊 Statistics & Data Science Concepts </h3>
 
 - Descriptive Statistics  
-- Probability Distributions  
-- Hypothesis Testing  
+- Probability Distributions (Normal, Binomial)  
+- Hypothesis Testing (Z-test, T-test, Chi-square)  
 - Confidence Intervals  
 - Correlation & Covariance  
 - Bias–Variance Tradeoff  
@@ -69,20 +74,22 @@ I enjoy understanding how data, algorithms, and mathematical reasoning come toge
 
 ---
 
-<h3> 🔭 Tools & Practices I’m Familiar With </h3>
+<h3> ⚙️ Tools & Practices I’m Familiar With </h3>
 
-- Data preprocessing & EDA  
-- Model evaluation (accuracy, precision, recall, RMSE)  
-- Cross-validation  
-- Train-test splitting  
+- Exploratory Data Analysis (EDA)  
+- Data preprocessing & cleaning  
+- Model evaluation (Accuracy, Precision, Recall, RMSE)  
+- Train-test split & cross-validation  
 - Basic time-series analysis  
-- Agile workflows (Jira – academic/project use)
+- Agile project workflows (Jira – academic/project use)  
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ---
 
-<h2> 🪚🔧 My Skills 😀😀 </h2>
+<h2> 🪚🔧 My Skills </h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -101,7 +108,7 @@ I enjoy understanding how data, algorithms, and mathematical reasoning come toge
 
 ---
 
-## 🎬📠 My GitHub Summary
+## 📈 GitHub Summary
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
