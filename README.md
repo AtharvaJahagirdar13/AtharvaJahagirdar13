@@ -111,7 +111,7 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 ## 🎓 Certifications
 
 📁 All certifications will be organized and uploaded here:  
-👉 **[Certifications Repository – Coming Soon](https://github.com/YOUR_USERNAME/certifications)**
+
 
 *(Includes ML, Data Science, Analytics, and related coursework)*
 
@@ -139,12 +139,10 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 
 ## 📈 GitHub Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaJahagirdar13&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
