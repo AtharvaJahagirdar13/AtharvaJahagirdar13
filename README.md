@@ -21,6 +21,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/resume">
+    <img src="https://img.shields.io/badge/Resume-1F75FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 I'm interested in **Machine Learning**, **Data Science**, **Statistics**, and how data-driven models help solve real-world problems.
@@ -113,14 +119,38 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 📁 All certifications will be organized and uploaded here:  
 👉 **[Certifications Repository – Coming Soon](https://github.com/YOUR_USERNAME/certifications)**
 
-*(Includes ML, Data Science, Analytics, and related coursework)*
+---
+
+## 🔥 Motivation & Inspiration
+
+I’m motivated by how **data and algorithms influence real decisions**—from predicting trends to optimizing systems.
+
+What drives me most is the process:
+- understanding a problem deeply  
+- questioning assumptions  
+- experimenting, failing, and refining  
+
+I believe strong fundamentals plus consistent practice compound over time.
+
+---
+
+## ⚠️ Key Challenges in Data Science & Machine Learning
+
+Some challenges I actively try to understand and work through:
+
+- Data quality issues and hidden biases  
+- Overfitting vs real-world generalization  
+- Interpreting model results, not just accuracy  
+- Feature selection and leakage  
+- Choosing the *right* model instead of the *complex* one  
+- Bridging the gap between theory and practical constraints  
 
 ---
 
 ## 🧠 Core Competencies
 
 - Fast learner with strong self-learning ability  
-- Adaptable to new tools, technologies, and problem domains  
+- Adaptable to new tools, technologies, and domains  
 - Analytical thinker with attention to detail  
 - Strong problem-solving mindset  
 - Comfortable working independently or in a team  
@@ -131,9 +161,17 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 ## 🌍 Hobbies & Interests
 
 - ✈️ Traveling and exploring new places  
-- 🌏 Observing cultures, patterns, and real-world systems  
+- 🌏 Observing cultures, patterns, and systems  
 - 📖 Learning beyond coursework  
-- ☕ Long debugging sessions powered by curiosity (and coffee)
+- ☕ Debugging sessions powered by curiosity (and coffee)
+
+---
+
+## 📌 Summary
+
+I’m a **third-year Computer Science student** building a solid foundation in **Data Science and Machine Learning** through focused learning and hands-on projects.
+
+I value **clarity over complexity**, **fundamentals over shortcuts**, and **progress over perfection**—and I’m continuously working toward becoming a well-rounded data professional.
 
 ---
 
