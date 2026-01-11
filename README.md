@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Learning+Every+Day&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst+%26+Data+Scientist;Machine+Learning+Enthusiast;Turning+Data+into+Insights&center=true&width=750&height=45">
 </p>
 
 <p align="center">
@@ -35,28 +35,49 @@
 
 ---
 
-I'm interested in **Machine Learning**, **Data Science**, **Statistics**, and how data-driven models help solve real-world problems.
+I’m interested in **Data Analysis, Machine Learning, Statistics**, and building data-driven solutions that support **real business decisions**.
 
-I focus on building a strong foundation in **modeling, data analysis, and statistical reasoning**, while continuously working on projects to improve practical understanding.
+I focus on:
+- extracting insights from raw data  
+- building predictive models when needed  
+- communicating results clearly through analysis and visualization  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Insights;Learning+ML+One+Model+at+a+Time;Debugging+with+Coffee&center=true&width=550&height=40">
+  <img src="https://readme-typing-svg.demolab.com/?lines=From+Raw+Data+to+Decisions;SQL+%2B+Python+%2B+ML;Building+Projects+That+Make+Sense&center=true&width=650&height=40">
 </p>
 
 ---
 
 <h2> 👨‍🎓 About Me </h2>
 
-- 🎓 Engineering student with a strong inclination towards **Data Science & AI**
-- 📊 Comfortable with **Python-based data analysis & ML workflows**
-- 🧠 Focused on understanding **why models work, not just using them**
-- 🔭 Actively building academic and personal ML projects
+- 🎓 Engineering student focused on **Data Analytics & Machine Learning**
+- 📊 Strong in **data cleaning, EDA, SQL, and business-oriented analysis**
+- 🤖 Comfortable building and evaluating ML models when prediction is required
+- 🔭 Actively building **analytics dashboards and ML pipelines**
 
 **Current focus areas:**
-- Machine Learning fundamentals  
-- Statistical analysis for data science  
-- Time series & forecasting basics  
-- End-to-end ML project development  
+- SQL for analytics & reporting  
+- Data visualization (dashboards & storytelling)  
+- Statistical analysis for business problems  
+- Time series & forecasting  
+- End-to-end ML workflows  
+
+---
+
+<h2 align="center"> 📊 Data Analysis Projects </h2>
+
+<p align="center">
+  <img src="https://frontlinesmedia.in/wp-content/uploads/2024/09/Zepto-10-Min-Grocery-Delivery.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <b>🛒 Zepto Retail Analytics using SQL</b><br>
+  End-to-end retail data analysis using complex SQL queries, KPIs, and business insights.
+</p>
+
+<p align="center">
+  👉 <a href="https://github.com/AtharvaJahagirdar13/zepto-retail-analytics-sql"><b>View Project Repository</b></a>
+</p>
 
 ---
 
@@ -86,14 +107,15 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 
 ---
 
-<h3> ⚙️ Tools & Practices I’m Familiar With </h3>
+<h3> ⚙️ Analytics & ML Practices </h3>
 
 - Exploratory Data Analysis (EDA)  
+- SQL-based data extraction & reporting  
 - Data preprocessing & cleaning  
+- Feature engineering  
 - Model evaluation (Accuracy, Precision, Recall, RMSE)  
 - Train-test split & cross-validation  
-- Basic time-series analysis  
-- Agile project workflows (Jira – academic/project use)  
+- Time-series trend and seasonality analysis  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -105,77 +127,19 @@ I focus on building a strong foundation in **modeling, data analysis, and statis
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
-
----
-
-## 🎓 Certifications
-
-📁 All certifications will be organized and uploaded here:  
-👉 **[Certifications Repository – Coming Soon](https://github.com/AtharvaJahagirdar13/certifications)**
-
----
-
-## 🔥 Motivation & Inspiration
-
-I’m motivated by how **data and algorithms influence real decisions**—from predicting trends to optimizing systems.
-
-What drives me most is the process:
-- understanding a problem deeply  
-- questioning assumptions  
-- experimenting, failing, and refining  
-
-I believe strong fundamentals plus consistent practice compound over time.
-
----
-
-## ⚠️ Key Challenges in Data Science & Machine Learning
-
-- Data quality issues and hidden biases  
-- Overfitting vs real-world generalization  
-- Interpreting model results, not just accuracy  
-- Feature selection and leakage  
-- Choosing the *right* model instead of the *complex* one  
-- Bridging the gap between theory and practical constraints  
-
----
-
-## 🧠 Core Competencies
-
-- Fast learner with strong self-learning ability  
-- Adaptable to new tools, technologies, and domains  
-- Analytical thinker with attention to detail  
-- Strong problem-solving mindset  
-- Comfortable working independently or in a team  
-- Consistent, disciplined, and improvement-driven  
-
----
-
-## 🌍 Hobbies & Interests
-
-- ✈️ Traveling and exploring new places  
-- 🌏 Observing cultures, patterns, and systems  
-- 📖 Learning beyond coursework  
-- ☕ Debugging sessions powered by curiosity (and coffee)
-
----
-
-## 📌 Summary
-
-I’m a **third-year Computer Science student** building a solid foundation in **Data Science and Machine Learning** through focused learning and hands-on projects.
-
-I value **clarity over complexity**, **fundamentals over shortcuts**, and **progress over perfection**—and I’m continuously working toward becoming a well-rounded data professional.
 
 ---
 
