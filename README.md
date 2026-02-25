@@ -54,10 +54,9 @@ I focus on:
 
 **Current focus areas:**
 - Data Structures & Algorithms
-- Backend development & REST APIs
-- System design fundamentals
+- Backend development
 - Object-Oriented Programming
-- Database design & query optimization
+- Database 
 
 ---
 
@@ -69,7 +68,7 @@ I focus on:
 - Operating Systems fundamentals
 - Database Management Systems (DBMS)
 - Computer Networks basics
-- System Design principles
+
 
 ---
 
@@ -100,13 +99,3 @@ I focus on:
 </p>
 
 ---
-
-##  GitHub Summary
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaJahagirdar13&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
