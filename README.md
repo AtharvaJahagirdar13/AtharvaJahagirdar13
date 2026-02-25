@@ -3,15 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst+%26+Data+Scientist;Machine+Learning+Enthusiast;Turning+Data+into+Insights&center=true&width=750&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Full+Stack+%26+Backend+Developer;Building+Scalable+Solutions&center=true&width=750&height=45">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-jahagirdar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/atharvajahagirdar7">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
   <a href="https://github.com/AtharvaJahagirdar13">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -35,115 +32,76 @@
 
 ---
 
-I’m interested in **Data Analysis, Machine Learning, Statistics**, and building data-driven solutions that support **real business decisions**.
+I'm passionate about **Software Engineering, Backend Development**, and building scalable, efficient systems that solve real-world problems.
 
 I focus on:
-- extracting insights from raw data  
-- building predictive models when needed  
-- communicating results clearly through analysis and visualization  
+- designing and building clean, maintainable code
+- developing robust backend systems and APIs
+- solving challenging algorithmic problems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=From+Raw+Data+to+Decisions;SQL+%2B+Python+%2B+ML;Building+Projects+That+Make+Sense&center=true&width=650&height=40">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code+%2B+Build+%2B+Ship;Clean+Code+%7C+Strong+Foundations;Engineering+Solutions+That+Scale&center=true&width=650&height=40">
 </p>
 
 ---
 
 <h2> 👨‍🎓 About Me </h2>
 
-- 🎓 Engineering student focused on **Data Analytics & Machine Learning**
-- 📊 Strong in **data cleaning, EDA, SQL, and business-oriented analysis**
-- 🤖 Comfortable building and evaluating ML models when prediction is required
-- 🔭 Actively building **analytics dashboards and ML pipelines**
+- 🎓 Engineering student focused on **Software Development & Computer Science fundamentals**
+- 💻 Strong in **Data Structures, Algorithms, and System Design**
+- 🔧 Comfortable building **backend systems, REST APIs, and full-stack applications**
+- 🔭 Actively building **personal projects and contributing to open source**
 
 **Current focus areas:**
-- SQL for analytics & reporting  
-- Data visualization (dashboards & storytelling)  
-- Statistical analysis for business problems  
-- Time series & forecasting  
-- End-to-end ML workflows  
+- Data Structures & Algorithms
+- Backend development & REST APIs
+- System design fundamentals
+- Object-Oriented Programming
+- Database design & query optimization
 
 ---
 
-<h2 align="center"> 📊 Data Analysis Projects </h2>
+<h3> ⚙️ Core CS Concepts </h3>
 
-<p align="center">
-  <img src="https://frontlinesmedia.in/wp-content/uploads/2024/09/Zepto-10-Min-Grocery-Delivery.jpg" width="600"/>
-</p>
-
-<p align="center">
-  <b>🛒 Zepto Retail Analytics using SQL</b><br>
-  End-to-end retail data analysis using complex SQL queries, KPIs, and business insights.
-</p>
-
-<p align="center">
-  👉 <a href="https://github.com/AtharvaJahagirdar13/zepto-retail-analytics-sql"><b>View Project Repository</b></a>
-</p>
+- Data Structures (Arrays, Linked Lists, Trees, Graphs, Hash Maps)
+- Algorithms (Sorting, Searching, Dynamic Programming, Greedy)
+- Object-Oriented Programming (OOP)
+- Operating Systems fundamentals
+- Database Management Systems (DBMS)
+- Computer Networks basics
+- System Design principles
 
 ---
 
-<h3> 🤖 Machine Learning Models I’ve Worked With </h3>
+<h3> Development Practices </h3>
 
-- Linear Regression  
-- Logistic Regression  
-- Decision Trees  
-- Random Forest  
-- K-Nearest Neighbors (KNN)  
-- Naive Bayes  
-- Support Vector Machines (SVM)  
-- K-Means Clustering  
+- RESTful API design & development
+- Version control with Git & GitHub
+- Agile & project management workflows
+- Code review & debugging
+- Unit testing & software quality
+- Problem solving on competitive platforms
 
 ---
 
-<h3> 📊 Statistics & Data Science Concepts </h3>
-
-- Descriptive Statistics  
-- Probability Distributions (Normal, Binomial)  
-- Hypothesis Testing (Z-test, T-test, Chi-square)  
-- Confidence Intervals  
-- Correlation & Covariance  
-- Bias–Variance Tradeoff  
-- Overfitting vs Underfitting  
-- Feature Scaling & Encoding  
-
----
-
-<h3> ⚙️ Analytics & ML Practices </h3>
-
-- Exploratory Data Analysis (EDA)  
-- SQL-based data extraction & reporting  
-- Data preprocessing & cleaning  
-- Feature engineering  
-- Model evaluation (Accuracy, Precision, Recall, RMSE)  
-- Train-test split & cross-validation  
-- Time-series trend and seasonality analysis  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
----
-
-<h2> 🪚🔧 My Skills </h2>
+<h2>  My Skills </h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Summary
+##  GitHub Summary
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaJahagirdar13&layout=compact&theme=tokyonight"/>
