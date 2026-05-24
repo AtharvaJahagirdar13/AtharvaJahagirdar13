@@ -32,7 +32,7 @@
 
 ---
 
-I'm passionate about **Software Engineering, Backend Development**, and building scalable, efficient systems that solve real-world problems.
+I'm passionate about **Data Analytics, Software Engineering, Backend Development**, and building scalable, efficient systems that solve real-world problems.
 
 I focus on:
 - designing and building clean, maintainable code
